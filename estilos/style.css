@@ -12,3 +12,8 @@ body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-style: italic;
 } /* PLACEHOLDER TO TEST CSS */
+
+img{
+    height: 10%;
+    width: 10%;
+} /* ALSO A PLACEHOLDER */
